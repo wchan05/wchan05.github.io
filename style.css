@@ -28,7 +28,7 @@ body {
     padding: 5px;
 }
 .row::after{
-    content:"";
-    display: table;
+    content: "";
     clear: both;
+    display: table;
 }
