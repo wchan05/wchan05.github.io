@@ -25,7 +25,7 @@ body {
 .column {
     float: left;
     width: 33.33%;
-    padding: 150px;
+    padding: 200px;
     
 }
 .row::after{
