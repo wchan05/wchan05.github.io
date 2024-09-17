@@ -25,10 +25,10 @@ body {
 .column {
     float: left;
     width: 33.33%;
-    padding: 125px;
-    
+    padding: 5px;
 }
 .row::after{
     content:"";
     display: table;
     clear: both;
+}
