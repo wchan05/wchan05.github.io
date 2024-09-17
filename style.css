@@ -22,3 +22,12 @@ body {
 #body6{
     background-color:#d3d3d3; 
 }
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+.row::after{
+    content:"";
+    display: table;
+    clear: both;
