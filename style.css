@@ -1,22 +1,10 @@
 body {
     background-color: #333333;
 }
-#body2{
-    background-color:#FFFDD0;
+#body2, #body3, #body4, #body5, #body6 {
+    background-color: #333333;
 }
-#body3{
-    background-color:#cd8b62;
-}
-#body4{
-    background-color:#9A9498;
-}
-#body5{
-    background-color:#C4A484;
-}
-#body6{
-    background-color:#d3d3d3; 
-}
-#p1,#h1,#h2,#h3,#h4,#h5,#h6,#h7,#h8{
+#p1, #h1, #h2, #h3, #h4, #h5, #h6, #h7, #h8 {
     color:#eed7a1;
 }
 * {
